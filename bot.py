@@ -12,7 +12,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Токен Telegram-бота
-TOKEN = "7523670691:AAHYCz92tW6_3tQgDQmz7xNfqowVfhZ49_8"
+TOKEN = "ВАШ ТОКЕН" # Идите Вы сами делать всоего бота в BotFather
 
 # CRM-данные клиентов (замените на свои данные)
 CRM_DATA = {
